@@ -3,21 +3,21 @@
 Great Gis Companies is a repository listing companies developing modern gis projects, plataforms and products.
 
 > [CARTO](https://carto.com/)
-- Headquarters: Madrid / Spain
-- Keywords: Geospastial Data Science, Location Intelligence
+> - Headquarters: Madrid / Spain
+>- Keywords: Geospastial Data Science, Location Intelligence
 
 > [FOAM](https://foam.space/)
-- Headquarters: New York / US
-- Keywords: Blockchain
+> - Headquarters: New York / US
+> - Keywords: Blockchain
 
 > [KARTOZA](https://kartoza.com/)
-- Headquarters: South Africa
-- Keywords: Bespoke Apps
+> - Headquarters: South Africa
+> - Keywords: Bespoke Apps
 
 > [PRELIGENS](https://preligens.com)
-- Headquarters: France
-- Keywords: Artificial Intelligence
+> - Headquarters: France
+> - Keywords: Artificial Intelligence, Geointelligence
 
 > [STAMEN](https://stamen.com/)
-- Headquarters: San Francisco / US
-- Keywords: Design, Web Maps, Cartography
+> - Headquarters: San Francisco / US
+> - Keywords: Design, Web Maps, Cartography
