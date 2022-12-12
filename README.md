@@ -1,6 +1,6 @@
 # GREAT GIS COMPANIES 
 
-Great Gis Companies is a repository listing companies that, despite of their sizes, are developing modern gis projects, plataforms and products.
+Great Gis Companies is a repository listing companies developing modern gis projects, plataforms and products.
 
 > [STAMEN](https://stamen.com/)
 - Headquarters: San Francisco / US
