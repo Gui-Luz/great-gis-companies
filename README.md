@@ -2,13 +2,19 @@
 
 Great Gis Companies is a repository listing companies developing modern gis projects, plataforms and products.
 
+The repository's goal is to catalog small and medium sized companies that are fostering new ideas and approaches in the geotechonology space.
+
 > [CARTO](https://carto.com/)
 > - Headquarters: Madrid / Spain
->- Keywords: Geospastial Data Science, Location Intelligence
+> - Keywords: Geospastial Data Science, Location Intelligence
 
 > [FOAM](https://foam.space/)
 > - Headquarters: New York / US
 > - Keywords: Blockchain
+
+> [SPATIAL.AI](https://spatial.ai)
+> - Headquartes: US
+> - Keywords: Geosocial data, Location Intelligence
 
 > [KARTOZA](https://kartoza.com/)
 > - Headquarters: South Africa
