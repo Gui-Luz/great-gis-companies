@@ -8,6 +8,10 @@ The repository's goal is to catalog small and medium sized companies that are fo
 > - Headquarters: Madrid / Spain
 > - Keywords: Geospastial Data Science, Location Intelligence
 
+> [DEVELOPMENT SEED](https://developmentseed.org)
+> - Headquartes: Lisbon/PT, Washington/US
+> - Keywords: Geospatial datascience
+
 > [FOAM](https://foam.space/)
 > - Headquarters: New York / US
 > - Keywords: Blockchain
