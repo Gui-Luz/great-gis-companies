@@ -16,9 +16,9 @@ The repository's goal is to catalog small and medium sized companies that are fo
 > - Headquarters: New York / US
 > - Keywords: Blockchain
 
-> [SPATIAL.AI](https://spatial.ai)
-> - Headquartes: US
-> - Keywords: Geosocial data, Location Intelligence
+> [GEODATIN](https://geodatin.com/)
+> - Headquarters: Salvador/BR
+> - Keywords: Custom Web Maps 
 
 > [KARTOZA](https://kartoza.com/)
 > - Headquarters: South Africa
@@ -27,6 +27,10 @@ The repository's goal is to catalog small and medium sized companies that are fo
 > [PRELIGENS](https://preligens.com)
 > - Headquarters: France
 > - Keywords: Artificial Intelligence, Geointelligence
+
+> [SPATIAL.AI](https://spatial.ai)
+> - Headquartes: US
+> - Keywords: Geosocial data, Location Intelligence
 
 > [STAMEN](https://stamen.com/)
 > - Headquarters: San Francisco / US
