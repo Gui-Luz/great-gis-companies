@@ -35,3 +35,7 @@ The repository's goal is to catalog small and medium sized companies that are fo
 > [STAMEN](https://stamen.com/)
 > - Headquarters: San Francisco / US
 > - Keywords: Design, Web Maps, Cartography
+
+> [URSA SPACE](https://ursaspace.com/)
+> - Headquarters: US
+> - Keywords: Geointelligence
