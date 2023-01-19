@@ -24,6 +24,10 @@ The repository's goal is to catalog small and medium sized companies that are fo
 > - Headquarters: South Africa
 > - Keywords: Bespoke Apps
 
+> [ORBIFY](https://orbify.com/)
+> - Headquarters: Cracow, PL
+> - Keywords: Web Maps, PasS
+
 > [PICTERRA](https://picterra.ch)
 > - Headquarterts: Switzerland
 > - Keywords: Artificial Intelligence, Machine Learning
