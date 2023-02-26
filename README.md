@@ -9,7 +9,7 @@ The repository's goal is to catalog small and medium sized companies that are fo
 > - Keywords: Geospastial Data Science, Location Intelligence
 
 > [DEVELOPMENT SEED](https://developmentseed.org)
-> - Headquartes: Lisbon, Portugal, Washington/US
+> - Headquartes: Lisbon, Portugal - Washington, USA
 > - Keywords: Geospatial Data Science
 
 > [FOAM](https://foam.space/)
