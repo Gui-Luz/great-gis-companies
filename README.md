@@ -36,6 +36,10 @@ The repository's goal is to catalog small and medium sized companies that are fo
 > - Headquarters: France
 > - Keywords: Artificial Intelligence, Geointelligence
 
+> [SOLVED](https://solved.eco.br/)
+> - Headquarters: Belém, BR
+> - Keywords: Remote Sensing, Web Maps
+
 > [SPATIAL.AI](https://spatial.ai)
 > - Headquartes: US
 > - Keywords: Geosocial data, Location Intelligence
