@@ -5,19 +5,19 @@ Great Gis Companies is a repository listing companies developing modern gis proj
 The repository's goal is to catalog small and medium sized companies that are fostering new ideas and approaches in the geotechonology space.
 
 > [CARTO](https://carto.com/)
-> - Headquarters: Madrid / Spain
+> - Headquarters: Madrid, Spain
 > - Keywords: Geospastial Data Science, Location Intelligence
 
 > [DEVELOPMENT SEED](https://developmentseed.org)
-> - Headquartes: Lisbon/PT, Washington/US
+> - Headquartes: Lisbon, Portugal, Washington/US
 > - Keywords: Geospatial Data Science
 
 > [FOAM](https://foam.space/)
-> - Headquarters: New York / US
+> - Headquarters: New York, USA
 > - Keywords: Blockchain
 
 > [GEODATIN](https://geodatin.com/)
-> - Headquarters: Salvador/BR
+> - Headquarters: Salvador, Brazil
 > - Keywords: Custom Web Maps 
 
 > [KARTOZA](https://kartoza.com/)
@@ -25,7 +25,7 @@ The repository's goal is to catalog small and medium sized companies that are fo
 > - Keywords: Bespoke Apps
 
 > [ORBIFY](https://orbify.com/)
-> - Headquarters: Cracow, PL
+> - Headquarters: Cracow, Poland
 > - Keywords: Web Maps, PasS
 
 > [PICTERRA](https://picterra.ch)
@@ -37,17 +37,17 @@ The repository's goal is to catalog small and medium sized companies that are fo
 > - Keywords: Artificial Intelligence, Geointelligence
 
 > [SOLVED](https://solved.eco.br/)
-> - Headquarters: Belém, BR
+> - Headquarters: Belém, Brazil
 > - Keywords: Remote Sensing, Web Maps
 
 > [SPATIAL.AI](https://spatial.ai)
-> - Headquartes: US
+> - Headquartes: USA
 > - Keywords: Geosocial data, Location Intelligence
 
 > [STAMEN](https://stamen.com/)
-> - Headquarters: San Francisco / US
+> - Headquarters: San Francisco, USA
 > - Keywords: Design, Web Maps, Cartography
 
 > [URSA SPACE](https://ursaspace.com/)
-> - Headquarters: US
+> - Headquarters: USA
 > - Keywords: Geointelligence
