@@ -28,6 +28,10 @@ The repository's goal is to catalog small and medium sized companies that are fo
 > - Headquarters: Cracow, Poland
 > - Keywords: Web Maps, PasS
 
+> [PACHAMA](https://pachama.com/)
+> - Headquarters: California, USA
+> - Keywords: Machine Learning
+
 > [PICTERRA](https://picterra.ch)
 > - Headquarterts: Switzerland
 > - Keywords: Artificial Intelligence, Machine Learning
